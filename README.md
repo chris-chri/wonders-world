@@ -2,6 +2,15 @@
 
 There is a map on the right side of the and there are little yellow starts where you have to click it to see the different 7 wonders of the world containng information about them. Please Use a laptop/ PC to have the best experience.
 
+The SEVEN WONDERS OF THE WORLD:
+1.Great Wall of China ,China
+2.Chichén Itzám ,Yucatán, Mexico
+3.Ma'an, Jordan,Petra
+4.Machu Picchu,Cuzco Region, Peru
+5. Brazil,Christ the Redeemer,Rio de Janeiro
+6.Colosseum,Rome, Italy
+7.Taj Mahal,Agra, India
+
 
 # Languages used
 
