@@ -9,7 +9,7 @@ HTML, CSS, JAVA SCRIP
 
 # What i need to Update
 
-i need to add back buttons on all the webpages i also want to add more locations. The website is NOT MOBILE/ TABELT frendly in the next update i will make the website more reposive
+i need to add back buttons on all the webpages i also want to add more locations. The website is NOT MOBILE/ TABELT friendly in the next update i will make the website more responsive
 
 
 # How i used ai and Youtube
